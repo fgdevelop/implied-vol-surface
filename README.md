@@ -26,13 +26,13 @@ Install (PowerShell)
 
 ```powershell
 # From the folder containing requirements.txt
-pip install -r "c:\Users\felip\Downloads\programming_projects\quant_scripts\projects_for_linkedin\requirements.txt"
+pip install -r "requirements.txt"
 ```
 
 Quick usage — run as a script (PowerShell)
 
 ```powershell
-python "c:\Users\felip\Downloads\programming_projects\quant_scripts\projects_for_linkedin\iv_surface.py"
+python "iv_surface.py"
 ```
 
 This will:
